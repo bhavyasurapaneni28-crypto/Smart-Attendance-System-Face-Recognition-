@@ -1,0 +1,10 @@
+SmartAttendanceJava/
+├── data/                  # Captured student images
+├── attendance.csv         # Attendance log
+├── lib/                   # OpenCV JARs
+├── src/
+│   ├── Main.java
+│   ├── Register.java
+│   ├── Recognize.java
+│   └── Utils.java
+└── README.md
