@@ -1,0 +1,20 @@
+# Smart Attendance System (Java)
+
+Face recognition-based attendance system using Java and OpenCV.
+
+## Features
+- Register students via webcam
+- Recognize faces and mark attendance automatically
+- Attendance stored in CSV (attendance.csv)
+- Simple GUI with Swing
+
+## Requirements
+- Java 8+
+- OpenCV 4+ (with Java bindings)
+- Haar cascade XML file (haarcascade_frontalface_alt.xml)
+
+## Usage
+1. Place OpenCV JARs in lib/ and configure in IDE.
+2. Run Main.java.
+3. Click "Register Student" to add students.
+4. Click "Mark Attendance" to start recognition.
