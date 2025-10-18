@@ -1,0 +1,1 @@
+A simple face recognition-based attendance system built with Java Swing and OpenCV.It allows user registration with face images, real-time face detection and recognition via webcam, and automatic attendance logging.
